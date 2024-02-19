@@ -1,22 +1,26 @@
-## Thema A
+## Topic A
+
+### ...
 
 <br>
 
-## Thema B
+## Topic B
+
+### ...
 
 <br>
 
-## Contribution guideline
+## Beitragsrichtlinie
 
-### Purpose
-
-<br>
-
-### 1. Language
+### Zweck
 
 <br>
 
-### 2. Branch naming
+### 1. Sprache
+
+<br>
+
+### 2. Branch Benennung
 
 <br>
 
@@ -32,21 +36,21 @@
 
 <br>
 
-### 6. Version bump
+### 6. Version hochzählen
 
 <br>
 
-### 7. Changelog
+### 7. Changelog (Änderungshistorie)
 
 <br>
 
-### 8. Releases and Tags
+### 8. Releases und Tags
 
 <br>
 
-## Workflow description
+## Workflow Beschreibung
 
-### GitHub issues
+### Die Arbeit mit GitHub issues
 
 <br>
 
