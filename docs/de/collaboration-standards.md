@@ -1,15 +1,3 @@
-## Thema A
-
-### ...
-
-<br>
-
-## Thema B
-
-### ...
-
-<br>
-
 ## Beitragsrichtlinie
 
 ### Zweck
@@ -29,6 +17,8 @@ Einer der Hauptgründe für die Existenz dieser Leitlinien und Standards ist die
 <br>
 
 ### 2. Branch Benennung
+
+**Verwendung**
 
 - verwende kebab-style für die Branch Benennung
   - alles klein geschrieben
@@ -66,7 +56,6 @@ Einer der Hauptgründe für die Existenz dieser Leitlinien und Standards ist die
   - **Refactored** für Änderungen die weder einen Fehler beheben noch ein Feature hinzufügen.
   - **Removed** für entfernte Features.
   - **Security** im Falle von Schwachstellen.
-  - **Styled** for changes like whitespaces, formatting, missing semicolons etc.
   - **Styled** für Änderungen wie Leerzeichen, Formatierung, fehlende Semikolons usw.
 
 **Beispiele**
@@ -104,12 +93,4 @@ Einer der Hauptgründe für die Existenz dieser Leitlinien und Standards ist die
 
 <br>
 
-## Workflow Beschreibung
-
-### GitHub issues
-
-<br>
-
-### ...
-
-<br>
+## [Arbeitsabläufe und Anleitungen](/docs/de/workflows-how-tos.md)

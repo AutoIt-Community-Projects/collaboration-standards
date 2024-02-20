@@ -1,15 +1,3 @@
-## Topic A
-
-### ...
-
-<br>
-
-## Topic B
-
-### ...
-
-<br>
-
 ## Contribution guideline
 
 ### Purpose
@@ -29,6 +17,8 @@ One of the main reasons why this guidance and standards exists is consistency fo
 <br>
 
 ### 2. Branch naming
+
+**Usage**
 
 - use kebab-style for the branch name
   - all lowercase
@@ -103,12 +93,4 @@ One of the main reasons why this guidance and standards exists is consistency fo
 
 <br>
 
-## Workflow description
-
-### GitHub issues
-
-<br>
-
-### ...
-
-<br>
+## [Workflows and how-tos](/docs/de/workflows-how-tos.md)
