@@ -1,4 +1,4 @@
-## Contribution guideline
+## 1. Contribution guideline
 
 ### Purpose
 
@@ -116,7 +116,7 @@ See [this](https://github.com/Sven-Seyfert/au3webdriver-boilerplate/releases) ex
 
 <br>
 
-## [Workflows and how-tos](/docs/en/workflows-how-tos.md)
+## [2. Workflows and how-tos](/docs/en/workflows-how-tos.md)
 
 ---
 

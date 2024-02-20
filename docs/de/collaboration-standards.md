@@ -1,4 +1,4 @@
-## Beitragsrichtlinie
+## 1. Beitragsrichtlinie
 
 ### Zweck
 
@@ -118,7 +118,7 @@ Siehe [diese](https://github.com/Sven-Seyfert/au3webdriver-boilerplate/releases)
 
 <br>
 
-## [Arbeitsabläufe und Anleitungen](/docs/de/workflows-how-tos.md)
+## [2. Arbeitsabläufe und Anleitungen](/docs/de/workflows-how-tos.md)
 
 ---
 
