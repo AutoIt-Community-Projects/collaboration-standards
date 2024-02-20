@@ -75,6 +75,10 @@ Einer der Hauptgründe für die Existenz dieser Leitlinien und Standards ist die
 
 ### 4. Pull requests (merge requests)
 
+- pushe nicht direkt in den main (master) branch (kein force push)
+- erstellen den pull request aus deinem Feature Branch heraus in den main (master)
+- warten auf das auf die Genehmigung der Codeüberprüfung (code review approval) und dann führe deinen Code mit dem main (master) zusammen [^1]
+
 <br>
 
 ### 5. Code review
@@ -91,6 +95,32 @@ Einer der Hauptgründe für die Existenz dieser Leitlinien und Standards ist die
 
 ### 8. Releases und Tags
 
+**Verwendung**
+
+- benutze Git Tags für die jeweilige Release Version
+- benutze einfache [SemVer](https://semver.org/lang/de/) Tag Namen wie `v0.13.2` oder `v4.1.0`
+- benutze keine Prefixes oder Suffixe für die Release Tags
+  - Prefixe können für alle anderen Tags genutzt werden, wie bspw. für "hotfixes" oder "MVPs"
+  - wenn Prefixe oder Suffixe eingesetzt werden, dann in Kleinschreibweise und in kebab-case
+
+**Erstellungsbeispiel**
+
+Siehe [diese](https://github.com/Sven-Seyfert/au3webdriver-boilerplate/releases) Release-Struktur als Beispiel.
+
+| Choose a tag | Release title | Release description |
+| --- | --- | --- |
+| v0.13.2 | v0.13.2 - 2024-02-20 | Kopiere entweder den Text aus der Änderungshistorie (CHANGELOG) der neuen Version in den Abschnitt "Release description". Oder verweise auf die Datei CHANGELOG.md mit bspw. "see CHANGELOG.md file" oder ähnlichem. |
+
+**Warum**
+
+- Einheitlichkeit
+- jedes Release stellt eine stabile Version dar
+
 <br>
 
 ## [Arbeitsabläufe und Anleitungen](/docs/de/workflows-how-tos.md)
+
+---
+
+Fußnoten
+[^1]: Der Genehmigungsprozess muss für jedes GitHub-Repository konfiguriert werden.

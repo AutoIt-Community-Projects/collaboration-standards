@@ -75,7 +75,9 @@ One of the main reasons why this guidance and standards exists is consistency fo
 
 ### 4. Pull requests (merge requests)
 
-<br>
+- do not force push into main (master) branch
+- do create a merge request of your feature branch into main (master)
+- wait for the code review approval, than merge your code into main (master) [^1]
 
 ### 5. Code review
 
@@ -91,6 +93,32 @@ One of the main reasons why this guidance and standards exists is consistency fo
 
 ### 8. Releases and Tags
 
+**Usage**
+
+- use git tags for the release version
+- use simple [SemVer](https://semver.org/) tag names like `v0.13.2` or `v4.1.0`
+- do not use prefixes or suffixes for the release tags
+  - prefixes can be used for all other tags like "hotfixes" oder "MVPs"
+  - if prefixes or suffixes, use lowercase and use kebab-case
+
+**Creation example**
+
+See [this](https://github.com/Sven-Seyfert/au3webdriver-boilerplate/releases) example release structure.
+
+| Choose a tag | Release title | Release description |
+| --- | --- | --- |
+| v0.13.2 | v0.13.2 - 2024-02-20 | Either copy the changelog information of the new release into the 'Release description' section. Or reference to the CHANGELOG.md file like "see CHANGELOG.md file" or similar. |
+
+**Why**
+
+- consistency
+- each release version is a stable working version
+
 <br>
 
 ## [Workflows and how-tos](/docs/en/workflows-how-tos.md)
+
+---
+
+Footnotes
+[^1]: Approval process has to be configured for each GitHub repository.
