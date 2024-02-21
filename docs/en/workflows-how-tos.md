@@ -1,4 +1,4 @@
-## 2. Workflows and how-tos
+## Workflows and how-tos
 
 ### Purpose
 

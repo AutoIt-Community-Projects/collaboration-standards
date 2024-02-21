@@ -1,4 +1,4 @@
-## 1. Beitragsrichtlinie
+## Beitragsrichtlinie
 
 ### Zweck
 
@@ -20,7 +20,7 @@ Einer der Hauptgründe für die Existenz dieser Leitlinien und Standards ist die
 
 **Verwendung**
 
-- verwende kebab-style für die Branch Benennung
+- verwende [kebab-style](/docs/en/case-styles.md) für die Branch Benennung
   - alles klein geschrieben
   - alle Wörter separiert durch einen Bindestrich (Minus)
 
@@ -45,7 +45,7 @@ Einer der Hauptgründe für die Existenz dieser Leitlinien und Standards ist die
 
 **Verwendung**
 
-- nutze den "Keep a Changelog" Stil (https://keepachangelog.com/en/1.0.0/)
+- nutze den "[Keep a Changelog](https://keepachangelog.com/de/1.1.0/)" Stil
   - \<Schlagwort\>\<Doppelpunkt\>\<Leerzeichen\>\<Commit Nachricht als Satz mit schließenden Punkt.\>
 - Schlagwörter und deren Zweck
   - **Added** für neue Features.
@@ -68,7 +68,7 @@ Einer der Hauptgründe für die Existenz dieser Leitlinien und Standards ist die
 **Warum**
 
 - Einheitlichkeit
-- neben "conventional commits" (cc) (https://www.conventionalcommits.org/en/v1.0.0/) ist der "Keep a Changelog" Stil ein verbreiteter Weg (jedoch einfacher und besser lesbar als cc) damit umzugehen
+- neben "[conventional commits](https://www.conventionalcommits.org/de/v1.0.0/)" (cc) ist der "Keep a Changelog" Stil ein verbreiteter Weg (jedoch einfacher und besser lesbar als cc) damit umzugehen
 - die CHANGELOG.md Datei kann auf einfache Weise generiert und verwaltet werden
 
 <br>
@@ -77,7 +77,7 @@ Einer der Hauptgründe für die Existenz dieser Leitlinien und Standards ist die
 
 - pushe nicht direkt in den main (master) branch (kein force push)
 - erstellen den pull request aus deinem Feature Branch heraus in den main (master)
-- warten auf das auf die Genehmigung der Codeüberprüfung (code review approval) und dann führe deinen Code mit dem main (master) zusammen [^1]
+- warte auf die Genehmigung der Codeüberprüfung (code review approval) und dann führe deinen Code mit dem main (master) zusammen [^1]
 
 <br>
 
@@ -101,7 +101,7 @@ Einer der Hauptgründe für die Existenz dieser Leitlinien und Standards ist die
 - benutze einfache [SemVer](https://semver.org/lang/de/) Tag Namen wie `v0.13.2` oder `v4.1.0`
 - benutze keine Prefixes oder Suffixe für die Release Tags
   - Prefixe können für alle anderen Tags genutzt werden, wie bspw. für "hotfixes" oder "MVPs"
-  - wenn Prefixe oder Suffixe eingesetzt werden, dann in Kleinschreibweise und in kebab-case
+  - wenn Prefixe oder Suffixe eingesetzt werden, dann in Kleinschreibweise und in [kebab-style](/docs/en/case-styles.md)
 
 **Erstellungsbeispiel**
 
@@ -118,7 +118,11 @@ Siehe [diese](https://github.com/Sven-Seyfert/au3webdriver-boilerplate/releases)
 
 <br>
 
-## [2. Arbeitsabläufe und Anleitungen](/docs/de/workflows-how-tos.md)
+---
+
+## 🔗 weitere Themen
+
+### [Arbeitsabläufe und Anleitungen](/docs/de/workflows-how-tos.md)
 
 ---
 

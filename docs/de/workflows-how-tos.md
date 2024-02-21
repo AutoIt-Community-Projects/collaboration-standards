@@ -1,4 +1,4 @@
-## 2. Arbeitsabläufe und Anleitungen
+## Arbeitsabläufe und Anleitungen
 
 ### Zweck
 

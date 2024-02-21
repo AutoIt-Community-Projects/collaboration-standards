@@ -20,7 +20,7 @@ One of the main reasons why this guidance and standards exists is consistency fo
 
 **Usage**
 
-- use kebab-style for the branch name
+- use [kebab-style](/docs/en/case-styles.md) for the branch name
   - all lowercase
   - all words separated by the hyphen
 
@@ -45,7 +45,7 @@ One of the main reasons why this guidance and standards exists is consistency fo
 
 **Usage**
 
-- use the "Keep a Changelog" style (https://keepachangelog.com/en/1.0.0/)
+- use the "[Keep a Changelog]((https://keepachangelog.com/en/1.1.0/))" style
   - \<Keyword\>\<colon\>\<space\>\<Message as a sentence with final punctuation.\>
 - Keywords and their purposes
   - **Added** for new features.
@@ -68,7 +68,7 @@ One of the main reasons why this guidance and standards exists is consistency fo
 **Why**
 
 - consistency
-- beside "conventional commits" (cc) (https://www.conventionalcommits.org/en/v1.0.0/) is the "Keep a Changelog" style another common way (more easy and more human readable than cc) to deal with
+- beside "[conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)" (cc) is the "Keep a Changelog" style another common way (more easy and more human readable than cc) to deal with
 - CHANGELOG.md file can be generated and maintained in an easy fashion
 
 <br>
@@ -99,7 +99,7 @@ One of the main reasons why this guidance and standards exists is consistency fo
 - use simple [SemVer](https://semver.org/) tag names like `v0.13.2` or `v4.1.0`
 - do not use prefixes or suffixes for the release tags
   - prefixes can be used for all other tags like "hotfixes" oder "MVPs"
-  - if prefixes or suffixes, use lowercase and use kebab-case
+  - if prefixes or suffixes, use lowercase and use [kebab-style](/docs/en/case-styles.md)
 
 **Creation example**
 
@@ -116,7 +116,11 @@ See [this](https://github.com/Sven-Seyfert/au3webdriver-boilerplate/releases) ex
 
 <br>
 
-## [2. Workflows and how-tos](/docs/en/workflows-how-tos.md)
+---
+
+## 🔗 more topics
+
+### [Workflows and how-tos](/docs/en/workflows-how-tos.md)
 
 ---
 
