@@ -77,7 +77,7 @@ Einer der Hauptgründe für die Existenz dieser Leitlinien und Standards ist die
 
 - pushe nicht direkt in den main (master) branch (kein force push)
 - erstellen den pull request aus deinem Feature Branch heraus in den main (master)
-- warte auf die Genehmigung der Codeüberprüfung (code review approval) und dann führe deinen Code mit dem main (master) zusammen [^1]
+- warte auf die Genehmigung der Codeüberprüfung (code review approval) und dann<br>führe deinen Code mit dem main (master) zusammen [^1]
 
 <br>
 
@@ -123,6 +123,8 @@ Siehe [diese](https://github.com/Sven-Seyfert/au3webdriver-boilerplate/releases)
 ## 🔗 weitere Themen
 
 ### [Arbeitsabläufe und Anleitungen](/docs/de/workflows-how-tos.md)
+
+<br>
 
 ---
 

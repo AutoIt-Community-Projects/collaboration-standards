@@ -45,7 +45,7 @@ One of the main reasons why this guidance and standards exists is consistency fo
 
 **Usage**
 
-- use the "[Keep a Changelog]((https://keepachangelog.com/en/1.1.0/))" style
+- use the "[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)" style
   - \<Keyword\>\<colon\>\<space\>\<Message as a sentence with final punctuation.\>
 - Keywords and their purposes
   - **Added** for new features.
@@ -121,6 +121,8 @@ See [this](https://github.com/Sven-Seyfert/au3webdriver-boilerplate/releases) ex
 ## 🔗 more topics
 
 ### [Workflows and how-tos](/docs/en/workflows-how-tos.md)
+
+<br>
 
 ---
 
